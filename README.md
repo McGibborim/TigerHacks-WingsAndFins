@@ -1,5 +1,5 @@
 ## Inspiration
-When we say that this year's theme was transportation, we really wanted to build a game using an aquatic and air vehicle. As we started brainstorming with those in mind, we came up with the ideas for these levels.
+When we saw that this year's theme was transportation, we really wanted to build a game using an aquatic and air vehicle. As we started brainstorming with those in mind, we came up with the ideas for these levels.
 
 ## What it does
 There are two levels with their own objectives to complete. The first is a plane level where you are flying through the sky trying to collect the Panera Bread before the birds snatch it up. The second is in deep sea where you control a submarine that uses its spotlight to find H&R Blocks. 
